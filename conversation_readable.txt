@@ -1,0 +1,91 @@
+Step 1: Node type → thinking_node
+User: 
+این جنگ چند وقت اخیر خیلی مضطربم کرده
+Assistant Thinking:
+situation: The user is feeling anxious due to the recent war.
+automatic_thought: This war is making me very anxious.
+emotion: Anxiety
+cognitive_distortion: ['Catastrophizing', 'Fortune Telling']
+challenge_questions: ['What evidence do you have that the situation will continue to worsen?', 'How have you coped with similar situations in the past?', 'What are some things within your control that you can focus on right now?']
+proposed_reframe: While the situation is concerning, I can focus on what is within my control and seek support to manage my anxiety.
+predicted_emotion_change: If the new thought is adopted, the user's anxiety might decrease, and they may feel more in control and calmer.
+suggested_homework: Spend 10 minutes each day writing down things you can control and actions you can take to manage your anxiety.
+
+--------------------------------------------------
+
+Step 2: Node type → conversation_node
+User: 
+این جنگ چند وقت اخیر خیلی مضطربم کرده
+Assistant Response:
+متوجه هستم که این جنگ اخیر باعث اضطراب زیادی برای شما شده است. این احساس کاملاً طبیعی است. آیا می‌توانید بیشتر در مورد افکاری که در این باره دارید صحبت کنید؟ چه چیزی باعث می‌شود که این وضعیت را این‌قدر نگران‌کننده ببینید؟
+
+--------------------------------------------------
+
+Step 4: Node type → thinking_node
+User: 
+همش با تپش قلب بیدار مشم. منتظرم خبر مرگ عزیزانم رو بشنوم، انگار همع چی تموم شده برام
+Assistant Thinking:
+situation: The user is experiencing intense anxiety and physical symptoms like heart palpitations due to fear of losing loved ones in the ongoing war.
+automatic_thought: I'm constantly waking up with heart palpitations, expecting to hear about the death of my loved ones, as if everything is over for me.
+emotion: Intense anxiety and fear
+cognitive_distortion: ['Catastrophizing', 'Fortune Telling', 'All-or-Nothing Thinking']
+challenge_questions: ['What evidence do you have that your worst fears will come true?', 'Have there been times when you feared the worst, but things turned out differently?', 'What are some ways you can support your loved ones and yourself during this time?']
+proposed_reframe: While it's natural to worry about loved ones during difficult times, I can focus on staying connected with them and taking care of my own well-being to manage my anxiety.
+predicted_emotion_change: If the new thought is adopted, the user's anxiety might decrease, and they may feel more hopeful and connected.
+suggested_homework: Practice a relaxation technique, such as deep breathing or meditation, for 10 minutes each day to help manage physical symptoms of anxiety.
+
+--------------------------------------------------
+
+Step 5: Node type → conversation_node
+User: 
+همش با تپش قلب بیدار مشم. منتظرم خبر مرگ عزیزانم رو بشنوم، انگار همع چی تموم شده برام
+Assistant Response:
+متوجه هستم که این وضعیت چقدر برای شما سخت و نگران‌کننده است. احساس اضطراب و ترس از دست دادن عزیزان در چنین شرایطی کاملاً طبیعی است. آیا تا به حال پیش آمده که نگران اتفاق بدی باشید، اما در نهایت اوضاع به شکلی دیگر پیش برود؟
+
+--------------------------------------------------
+
+Step 7: Node type → thinking_node
+User: 
+خیلی پیش اومده که نگران اتفاق بدی باشم ولی پیش نیاد ولی نمیدونم چرا هنوز خیلی مضطربم
+Assistant Thinking:
+situation: The user continues to experience anxiety despite recognizing that their fears often do not come true.
+automatic_thought: Even though bad things often don't happen, I still feel very anxious.
+emotion: Persistent anxiety
+cognitive_distortion: ['Catastrophizing', 'Fortune Telling']
+challenge_questions: ['What evidence do you have that your anxiety will lead to something bad happening?', 'How often have your worries turned out to be unfounded in the past?', 'What are some positive outcomes that have occurred despite your worries?']
+proposed_reframe: While I often worry about bad things happening, I can remind myself that many times my fears do not come true, and I can focus on the present moment to manage my anxiety.
+predicted_emotion_change: If the new thought is adopted, the user's anxiety might decrease, and they may feel more at ease and present.
+suggested_homework: Keep a journal of instances where your worries did not come true and review it when feeling anxious.
+
+--------------------------------------------------
+
+Step 8: Node type → conversation_node
+User: 
+خیلی پیش اومده که نگران اتفاق بدی باشم ولی پیش نیاد ولی نمیدونم چرا هنوز خیلی مضطربم
+Assistant Response:
+متوجه هستم که با وجود اینکه می‌دانید نگرانی‌هایتان اغلب به واقعیت نمی‌پیوندند، هنوز هم احساس اضطراب زیادی دارید. این احساس کاملاً طبیعی است. اجازه دهید با هم بررسی کنیم. چه شواهدی دارید که نشان دهد اضطرابتان به وقوع اتفاق بدی منجر خواهد شد؟
+
+--------------------------------------------------
+
+Step 10: Node type → thinking_node
+User: 
+خیلی وقت ها نمیتونم تمرکزم رو روی درسهام حفظ کنم
+Assistant Thinking:
+situation: The user is experiencing difficulty concentrating on their studies, possibly due to ongoing anxiety.
+automatic_thought: I can't keep my focus on my studies.
+emotion: Frustration and anxiety
+cognitive_distortion: ['All-or-Nothing Thinking', 'Catastrophizing']
+challenge_questions: ['What evidence do you have that you are unable to concentrate at all?', 'Have there been times when you were able to focus on your studies despite feeling anxious?', 'What small steps can you take to improve your concentration even when feeling anxious?']
+proposed_reframe: While I sometimes struggle to concentrate, there are moments when I do manage to focus, and I can build on those successes to improve my concentration.
+predicted_emotion_change: If the new thought is adopted, the user might feel less frustrated and more hopeful about their ability to concentrate.
+suggested_homework: Try to set a timer for short study sessions and note any moments of successful concentration, even if brief.
+
+--------------------------------------------------
+
+Step 11: Node type → conversation_node
+User: 
+خیلی وقت ها نمیتونم تمرکزم رو روی درسهام حفظ کنم
+Assistant Response:
+متوجه هستم که احساس می‌کنید نمی‌توانید تمرکز خود را روی درس‌هایتان حفظ کنید و این ممکن است باعث ناامیدی و اضطراب شما شود. این احساسات کاملاً طبیعی هستند. آیا می‌توانید به من بگویید که چه افکاری در ذهن شما می‌گذرد وقتی که نمی‌توانید تمرکز کنید؟ و آیا تا به حال پیش آمده که با وجود اضطراب، توانسته باشید روی درس‌هایتان تمرکز کنید؟
+
+--------------------------------------------------
